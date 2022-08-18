@@ -3,6 +3,8 @@ public class Gittttt {
 
         System.out.println("bu calisma sonuncu calisma");
         System.out.println("bu calisma sonuncu calisma 222");
+        System.out.println("bu calisma sonuncu calisma 333");
+
 
     }
 }
